@@ -22,4 +22,3 @@ if yum list installed "sshpass" >/dev/null 2>&1; then
 else
   echo 'sshpass not detected. exiting...'
 fi
-
